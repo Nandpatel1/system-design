@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        // "TrafficSignalSystem",
+        // "LoggingFramework",
+        // "ParkingLotProblem",
+        // "VendingMachineDesign",
+        // "TaskManagementSystem",
+        // "pubsub",
+        // "ATMMachineDesign",
+        "hotelmanagement"
+    ],
+    "java.project.referencedLibraries": []
+}
