@@ -1,2 +1,3 @@
 [2026-01-01] Started LLD practice journey. Set up repo with README and project roadmap.
 [2026-01-02T09:15:00+05:30] ParkingLot day1: Created Vehicle (2W/4W/Large), ParkingSpot (type/status), ParkingLot entity with floor layout.
+[2026-01-03T11:00:00+05:30] ParkingLot day2: Added ParkingSpotRepository and VehicleRepository interfaces + HashMap-based impls.
