@@ -2,3 +2,4 @@
 [2026-01-02T09:15:00+05:30] ParkingLot day1: Created Vehicle (2W/4W/Large), ParkingSpot (type/status), ParkingLot entity with floor layout.
 [2026-01-03T11:00:00+05:30] ParkingLot day2: Added ParkingSpotRepository and VehicleRepository interfaces + HashMap-based impls.
 [2026-01-04T10:45:00+05:30] ParkingLot day3: ParkingLotService finds nearest available spot, issues Ticket, updates spot status on entry/exit.
+[2026-01-06T09:30:00+05:30] ParkingLot day4: ParkingLotController orchestrates park/unpark flow. Simulation shows 3-floor parking lot.
