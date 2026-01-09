@@ -4,3 +4,4 @@
 [2026-01-04T10:45:00+05:30] ParkingLot day3: ParkingLotService finds nearest available spot, issues Ticket, updates spot status on entry/exit.
 [2026-01-06T09:30:00+05:30] ParkingLot day4: ParkingLotController orchestrates park/unpark flow. Simulation shows 3-floor parking lot.
 [2026-01-07T20:00:00+05:30] ParkingLot day5: Added HourlyFeeStrategy, DailyFeeStrategy. PaymentAdapter wraps external payment gateway.
+[2026-01-09T10:00:00+05:30] Notes: Documented Parking Lot design, UML class diagram, how Strategy pattern separates fee algorithms.
