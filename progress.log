@@ -7,3 +7,4 @@
 [2026-01-09T10:00:00+05:30] Notes: Documented Parking Lot design, UML class diagram, how Strategy pattern separates fee algorithms.
 [2026-01-10T09:00:00+05:30] ATM day1: Created ATM, Account, Card, Session, Transaction domain classes. Added Denomination enum and CashDrawer.
 [2026-01-11T11:30:00+05:30] ATM day2: State pattern impl - ATMState interface, AbstractATMState base, IdleState/CardInsertedState/AuthenticatedState.
+[2026-01-12T10:15:00+05:30] ATM day3: Completed full state machine with remaining 3 states. Each state validates allowed operations.
