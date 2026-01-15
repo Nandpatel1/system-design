@@ -9,3 +9,4 @@
 [2026-01-11T11:30:00+05:30] ATM day2: State pattern impl - ATMState interface, AbstractATMState base, IdleState/CardInsertedState/AuthenticatedState.
 [2026-01-12T10:15:00+05:30] ATM day3: Completed full state machine with remaining 3 states. Each state validates allowed operations.
 [2026-01-13T09:45:00+05:30] ATM day4: Strategy pattern for transactions. WithdrawalStrategy uses greedy algorithm on CashDrawer denominations.
+[2026-01-15T10:30:00+05:30] ATM day5: Added 7 repository interfaces + impl classes (ATM, Account, Card, Session, Transaction, CashDrawer, AdminUser).
