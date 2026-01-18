@@ -12,3 +12,4 @@
 [2026-01-15T10:30:00+05:30] ATM day5: Added 7 repository interfaces + impl classes (ATM, Account, Card, Session, Transaction, CashDrawer, AdminUser).
 [2026-01-16T09:00:00+05:30] ATM day6: Service layer wired with repositories. PIN validation, session timeout, concurrent transaction guard.
 [2026-01-17T11:00:00+05:30] ATM day7: Controller layer delegates to services. AdminController handles cash refill and ATM maintenance mode.
+[2026-01-18T10:00:00+05:30] ATM day8: ATMSimulation demonstrates insert card -> PIN auth -> select withdrawal -> dispense cash -> eject card flow.
