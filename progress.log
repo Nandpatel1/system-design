@@ -14,3 +14,4 @@
 [2026-01-17T11:00:00+05:30] ATM day7: Controller layer delegates to services. AdminController handles cash refill and ATM maintenance mode.
 [2026-01-18T10:00:00+05:30] ATM day8: ATMSimulation demonstrates insert card -> PIN auth -> select withdrawal -> dispense cash -> eject card flow.
 [2026-01-19T20:30:00+05:30] ATM refactor: Moved denomination greedy logic into CashDrawer. Added InvalidATMOperationException for error cases.
+[2026-01-21T09:30:00+05:30] Elevator day1: Elevator entity with currentFloor/direction/status. ElevatorRequest with source/destination floors.
