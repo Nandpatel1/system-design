@@ -17,3 +17,4 @@
 [2026-01-21T09:30:00+05:30] Elevator day1: Elevator entity with currentFloor/direction/status. ElevatorRequest with source/destination floors.
 [2026-01-22T10:00:00+05:30] Elevator day2: ElevatorScheduler uses SCAN algorithm - services requests in one direction before reversing.
 [2026-01-23T11:15:00+05:30] Elevator day3: ElevatorRepository and RequestRepository with PriorityQueue-based pending request storage.
+[2026-01-24T09:00:00+05:30] Elevator day4: ElevatorService picks optimal elevator (least distance) for each floor request.
