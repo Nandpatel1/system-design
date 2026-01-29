@@ -21,3 +21,4 @@
 [2026-01-25T10:45:00+05:30] Elevator day5: 10-floor, 3-elevator simulation. ElevatorController manages button presses inside/outside cabin.
 [2026-01-26T20:00:00+05:30] Notes: Added elevator section to LEARNING_NOTES. Key insight: SCAN = disk scheduling applied to vertical movement.
 [2026-01-28T09:15:00+05:30] Hotel day1: Created full domain model - Room (Standard/Deluxe/Suite), Booking with state machine, Guest profile.
+[2026-01-29T10:30:00+05:30] Hotel day2: Room.isAvailableForDates() checks overlapping bookings. Booking validates check-in before check-out.
