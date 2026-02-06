@@ -28,3 +28,4 @@
 [2026-02-03T09:30:00+05:30] Hotel day6: HotelController, BookingController, RoomController handle HTTP-like command routing.
 [2026-02-04T10:45:00+05:30] Hotel day7: End-to-end simulation: guest registers -> books suite -> checks in -> checks out -> invoice.
 [2026-02-05T09:00:00+05:30] Notes: Documented Hotel design. Booking state: Pending->Confirmed->CheckedIn->CheckedOut->Cancelled.
+[2026-02-06T11:00:00+05:30] TaskMgmt day1: Task with priority (LOW/MED/HIGH/CRITICAL), assignee, dueDate, tags, subtasks, comments.
