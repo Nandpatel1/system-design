@@ -30,3 +30,4 @@
 [2026-02-05T09:00:00+05:30] Notes: Documented Hotel design. Booking state: Pending->Confirmed->CheckedIn->CheckedOut->Cancelled.
 [2026-02-06T11:00:00+05:30] TaskMgmt day1: Task with priority (LOW/MED/HIGH/CRITICAL), assignee, dueDate, tags, subtasks, comments.
 [2026-02-07T10:30:00+05:30] TaskMgmt day2: TaskState machine (TODO->IN_PROGRESS->REVIEW->DONE). Only assigned user can move to IN_PROGRESS.
+[2026-02-09T09:15:00+05:30] TaskMgmt day3: TaskRepository supports queries: findByAssignee, findByPriority, findOverdue, findByProject.
