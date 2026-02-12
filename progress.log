@@ -33,3 +33,4 @@
 [2026-02-09T09:15:00+05:30] TaskMgmt day3: TaskRepository supports queries: findByAssignee, findByPriority, findOverdue, findByProject.
 [2026-02-10T10:00:00+05:30] TaskMgmt day4: Full service layer. TaskService enforces role-based permission checks (Admin/Manager/Dev roles).
 [2026-02-11T09:45:00+05:30] TaskMgmt day5: Demo: Manager creates sprint, assigns tasks to devs, devs update progress, manager reviews.
+[2026-02-12T11:30:00+05:30] TaskMgmt day6: TaskSubscriber (Observer) notifies users via event bus on assignment, status change, overdue trigger.
