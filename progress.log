@@ -37,3 +37,4 @@
 [2026-02-13T10:00:00+05:30] Logging day1: Logger interface, LogLevel enum, LogRecord value object. Hierarchical logger naming (parent.child).
 [2026-02-14T09:30:00+05:30] Logging day2: Appender interface + ConsoleAppender (stdout), FileAppender (rotating file with size limit).
 [2026-02-16T10:15:00+05:30] Logging day3: JsonFormatter outputs structured logs. PatternFormatter supports %d %level %msg %thread tokens.
+[2026-02-17T09:00:00+05:30] Logging day4: Chain of Responsibility - LevelFilter, CategoryFilter, RegexFilter chain before appender routing.
