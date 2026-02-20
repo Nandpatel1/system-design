@@ -39,3 +39,4 @@
 [2026-02-16T10:15:00+05:30] Logging day3: JsonFormatter outputs structured logs. PatternFormatter supports %d %level %msg %thread tokens.
 [2026-02-17T09:00:00+05:30] Logging day4: Chain of Responsibility - LevelFilter, CategoryFilter, RegexFilter chain before appender routing.
 [2026-02-18T11:00:00+05:30] Logging day5: LogManager.getInstance() returns shared registry. Supports runtime log level override per logger.
+[2026-02-20T09:15:00+05:30] Vending day1: VendingMachine, Product with price/code, Inventory with stock count, Coin enum with values.
